@@ -10,7 +10,7 @@ export default function LectureList({
 
   return (
     <article className="w-full py-10">
-      <section className="container mx-auto">
+      <section className="container mx-auto px-4 md:px-0">
         <div className="category-title relative">
           <span className="text-2xl font-bold pe-4 bg-white relative z-10">
             {lectureList.title}
