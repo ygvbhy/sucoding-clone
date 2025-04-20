@@ -6,8 +6,6 @@ export default function LectureList({
 }: {
   lectureList: LectureListType;
 }) {
-  console.log(lectureList);
-
   return (
     <article className="w-full py-10">
       <section className="container mx-auto px-4 md:px-0">

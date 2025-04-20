@@ -1,8 +1,6 @@
 import { LectureType } from "../types";
 
 export default function LectureCard({ lecture }: { lecture: LectureType }) {
-  console.log(lecture);
-
   return (
     <>
       <div className="bg-gray-100">
