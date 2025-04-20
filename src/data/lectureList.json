@@ -1,0 +1,98 @@
+[
+  {
+    "title": "프론트엔드 개발자 중급",
+    "lectureList": [
+      {
+        "id": 1,
+        "title": "핵심만 골라 배우는 TypeScript",
+        "description": "핵심만 콕콕 집어서 기초부터 배워보는 TypeScript 강의입니다.",
+        "image": "https://img.sucoding.kr//course/b0425072bfe4c1d2e7eb856f134f4308.png",
+        "link": "https://www.inflearn.com/course/%ED%95%B5%EC%8B%AC%EB%A7%8C-%EB%B0%B0%EC%9A%B0%EB%8A%94-tyescript",
+        "price": "55,000원",
+        "is_new": true
+      },
+      {
+        "id": 2,
+        "title": "핵심만 골라 배우는 Vue.JS",
+        "description": "핵심만 콕콕 집어서 기초부터 배워보는 Vue.JS(3.x) 강의입니다.",
+        "image": "https://img.sucoding.kr//course/c5315653b82e4445579f7a60eed2a0c7.png",
+        "link": "https://www.inflearn.com/course/%ED%95%B5%EC%8B%AC%EB%A7%8C-%EB%B0%B0%EC%9A%B0%EB%8A%94-vuejs",
+        "price": "79,200원",
+        "is_new": false
+      }
+    ]
+  },
+  {
+    "title": "프론트엔드 개발자 입문",
+    "lectureList": [
+      {
+        "id": 1,
+        "title": "핵심만 골라 배우는 HTML5",
+        "description": "핵심만 콕콕 집어서 기초부터 배워보는 HTML5 강의입니다.",
+        "image": "https://img.sucoding.kr//course/8c1bd4af9868020fbb52abeb6e51745b.png",
+        "link": "https://www.inflearn.com/course/%ED%95%B5%EC%8B%AC%EB%A7%8C-%EB%B0%B0%EC%9A%B0%EB%8A%94-html5",
+        "price": "35,200원",
+        "is_new": false
+      },
+      {
+        "id": 2,
+        "title": "핵심만 골라 배우는 CSS3",
+        "description": "핵심만 콕콕 집어서 기초부터 배워보는 CSS3 강의입니다.",
+        "image": "https://img.sucoding.kr//course/c0ab096b13d465efb1265ba45f4cace6.png",
+        "link": "https://www.inflearn.com/course/%ED%95%B5%EC%8B%AC%EB%A7%8C-%EB%B0%B0%EC%9A%B0%EB%8A%94-css3",
+        "price": "59,400원",
+        "is_new": false
+      },
+      {
+        "id": 3,
+        "title": "핵심만 골라 배우는 JavaScript",
+        "description": "핵심만 콕콕 집어서 기초부터 배워보는 JavaScript 강의입니다.",
+        "image": "https://img.sucoding.kr//course/de4973dcc66f9f7c0175fea4f4837d7e.png",
+        "link": "https://www.inflearn.com/course/%ED%95%B5%EC%8B%AC%EB%A7%8C-%EB%B0%B0%EC%9A%B0%EB%8A%94-javascript",
+        "price": "79,200원",
+        "is_new": false
+      }
+    ]
+  },
+  {
+    "title": "무료 유튜브 강의",
+    "lectureList": [
+      {
+        "id": 1,
+        "title": "코딩 자율학습 HTML+CSS+자바스크립트",
+        "description": "책에 수록된 예제 코드를 확인할 수 있습니다.",
+        "image": "https://img.sucoding.kr//course/8c55b0283a63d358160710c4820e12cd.png",
+        "link": "https://www.inflearn.com/course/%ED%95%B5%EC%8B%AC%EB%A7%8C-%EB%B0%B0%EC%9A%B0%EB%8A%94-tyescript",
+        "price": "무료",
+        "is_new": false
+      },
+      {
+        "id": 2,
+        "title": "HTML+CSS 기초",
+        "description": "수코딩 유튜브 채널에 등록된 무료 HTML+CSS 기초 강의입니다.",
+        "image": "https://img.sucoding.kr//course/a4e0c4a6b0c6f16dc10371088071f561.png",
+        "link": "https://www.inflearn.com/course/%ED%95%B5%EC%8B%AC%EB%A7%8C-%EB%B0%B0%EC%9A%B0%EB%8A%94-vuejs",
+        "price": "무료",
+        "is_new": false
+      },
+      {
+        "id": 3,
+        "title": "Javascript 기초",
+        "description": "수코딩 유튜브 채널에 등록된 무료  Javascript 기초 강의입니다.",
+        "image": "https://img.sucoding.kr//course/4c9f0a89adc6b74c834e0ea5c4bea013.png",
+        "link": "https://www.inflearn.com/course/%ED%95%B5%EC%8B%AC%EB%A7%8C-%EB%B0%B0%EC%9A%B0%EB%8A%94-react",
+        "price": "무료",
+        "is_new": false
+      },
+      {
+        "id": 4,
+        "title": "HTML+CSS+JS 활용",
+        "description": "수코딩 유튜브 채널에 등록된 미니 프로젝트 강의입니다.",
+        "image": "https://img.sucoding.kr//course/0e9a3bb07f3e336057ed3a1bba73cdd1.png",
+        "link": "https://www.inflearn.com/course/%ED%95%B5%EC%8B%AC%EB%A7%8C-%EB%B0%B0%EC%9A%B0%EB%8A%94-nodejs",
+        "price": "무료",
+        "is_new": false
+      }
+    ]
+  }
+]

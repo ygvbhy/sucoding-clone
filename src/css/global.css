@@ -1,0 +1,10 @@
+.category-title:before {
+  content: "";
+  background-color: rgba(0, 0, 0, 0.2);
+  height: 1px;
+  left: 0;
+  position: absolute;
+  top: 50%;
+  width: 100%;
+  z-index: -1;
+}
